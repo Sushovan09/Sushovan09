@@ -32,11 +32,6 @@ I'm a software developer and enthusiast with a passion for building innovative s
   - Working with the Quorum test network to develop and deploy private transactions.
   - Exploring the use of smart contracts and privacy scripts in blockchain networks.
 
-## 📝 Latest Publications
-- **Extended U-Net for Speaker Verification in Noisy Environments**
-  - A research paper by Ju-ho Kim, Jungwoo Heo, Hye-jin Shim, and Ha-Jin Yu.
-  - Focuses on improving speaker verification systems in challenging environments.
-  - [Read the paper here](#) *(Link to the paper if available online)*
 
 ## 📈 GitHub Stats
 ![Sushovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushovan007&show_icons=true&theme=radical)
@@ -51,24 +46,10 @@ I'm a software developer and enthusiast with a passion for building innovative s
 
 ## 📫 How to Reach Me
 - **GitHub:** [sushovan007](https://github.com/sushovan007)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#) *(Link to your LinkedIn profile if available)*
+- **Email:** [your-suhovanpan2003@gmail.com](mailto:suhovanpan2003@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile]([#](https://www.linkedin.com/in/sushovan-pan-6753b920b/)) *(Link to your LinkedIn profile if available)*
 
 ## ✨ Fun Facts
 - 🎧 I enjoy listening to music while coding.
 - 📖 Always on the lookout for new papers and technologies to read and explore.
 
-<!--
-**Sushovan09/Sushovan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
