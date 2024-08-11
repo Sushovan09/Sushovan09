@@ -46,9 +46,8 @@ I'm a software developer and enthusiast with a passion for building innovative s
 
 ## 📫 How to Reach Me
 - **GitHub:** [sushovan007](https://github.com/sushovan007)
-- **Email:** [your-suhovanpan2003@gmail.com](mailto:suhovanpan2003@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([#](https://www.linkedin.com/in/sushovan-pan-6753b920b/)) *(Link to your LinkedIn profile if available)*
-
+- **Email:** [suhovanpan2003@gmail.com](mailto:suhovanpan2003@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sushovan-pan-6753b920b/)
 ## ✨ Fun Facts
 - 🎧 I enjoy listening to music while coding.
 - 📖 Always on the lookout for new papers and technologies to read and explore.
