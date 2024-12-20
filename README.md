@@ -45,9 +45,9 @@ I'm a software developer and enthusiast with a passion for building innovative s
   - Developing scripts for private transactions in the Quorum blockchain.
 
 ## 📫 How to Reach Me
-- **GitHub:** [Sushovan009](https://github.com/Sushovan09)
+- **GitHub:** [Sushovan09](https://github.com/Sushovan09)
 - **Email:** [suhovanpan2003@gmail.com](mailto:suhovanpan2003@gmail.com)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sushovan-pan-6753b920b/)
+- **LinkedIn:** [sushovan-pan-6753b920b](https://www.linkedin.com/in/sushovan-pan-6753b920b/)
 ## ✨ Fun Facts
 - 🎧 I enjoy listening to music while coding.
 - 📖 Always on the lookout for new technologies to read and explore.
