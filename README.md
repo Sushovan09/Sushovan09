@@ -51,13 +51,6 @@ Currently, I'm working on:
 - Real-time classification via Flask & React.
 - Dynamic image & Wikipedia integration.
 
-#### **Speaker Detection using AI**
-- Speaker classification using TensorFlow.
-- Dataset processing and real-time recognition.
-
-#### **Image Processing Tool for Patches**
-- Automated image resizing into fixed-size patches.
-- Maintains aspect ratio for diverse image datasets.
 
 #### **PDF Chatbot for Conversational PDF Analysis**
 - AI-driven chatbot for PDF interaction.
