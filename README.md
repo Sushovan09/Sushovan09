@@ -63,6 +63,10 @@ Currently, I'm working on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushovan09&layout=compact&theme=tokyonight)
 
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushovan09&theme=radical)
+
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushovan09&theme=radical&utcOffset=5)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushovan09&theme=tokyonight)
 
 ---
