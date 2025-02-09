@@ -1,65 +1,98 @@
+### Hi, I'm Sushovan Pan! 👋
 
+🚀 **Software Developer | AI & ML Enthusiast | Blockchain Explorer | Open Source Contributor**
 
-## Hi, I'm Sushovan 👋
+---
 
-I'm a software developer and enthusiast with a passion for building innovative solutions in telecommunication systems, blockchain technologies, and more. I'm currently working on configuring and optimizing Asterisk servers, exploring SIP protocols, and delving into blockchain development with Quorum.
+### 🔥 About Me
+I'm a passionate computer science student with expertise in AI, machine learning, full-stack development, blockchain technology, and image/audio processing. My journey spans academic pursuits, research projects, and technical development, with a focus on creating impactful solutions.
 
-## 🚀 About Me
-- 🔧 Currently exploring Asterisk and SIP configurations.
-- 📚 Interested in blockchain technology, particularly with Quorum.
-- 🎓 Continuously learning and experimenting with new technologies.
+Currently, I'm working on:
 
-## 🛠️ Technologies & Tools
-- **Telecommunication Systems:**
-  - Asterisk (v18.23.1)
-  - SIP Protocol
-- **Programming Languages:**
-  - Python
-  - JavaScript
-  - Shell Scripting
-- **Blockchain:**
-  - Quorum
-- **Other Tools:**
-  - Git & GitHub
-  - Docker & Kubernetes
+- **AI & ML Projects** – Speaker detection, audio processing, and bird species classification.
+- **Image Processing** – Resizing images into patches while maintaining aspect ratios.
+- **Telecommunication Systems** – Configuring and optimizing Asterisk SIP servers for automated IVR and call handling.
+- **Blockchain Development** – Leveraging Quorum for secure private transactions and blockchain-based call records.
+- **Web Development** – Building responsive, interactive portfolio websites and full-stack web applications.
 
-## 🔭 Projects I'm Working On
-- **Asterisk SIP Configuration:**
-  - Setting up and configuring Asterisk servers to handle and route calls efficiently.
-  - Experimenting with different SIP client configurations for development purposes.
-  
-- **Quorum Blockchain Development:**
-  - Working with the Quorum test network to develop and deploy private transactions.
-  - Exploring the use of smart contracts and privacy scripts in blockchain networks.
+---
 
+### 🛠️ Tech Stack
 
-## 📈 GitHub Stats
-![Sushovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushovan09&show_icons=true&theme=radical&v=2)
+#### **🚀 AI & Machine Learning**
+- TensorFlow & PyTorch
+- Audio Processing (Librosa, SpeechRecognition)
+- Deep Learning & Computer Vision
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushovan09&layout=compact&theme=radical&v=2)
+#### **📞 Telecommunication & SIP**
+- Asterisk (v18.23.1)
+- SIP Protocol & IVR Systems
 
-## 🏆 GitHub Profile Summary
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushovan09&theme=radical)
+#### **🛠️ Development & DevOps**
+- Python, JavaScript, C++, Shell Scripting
+- Flask, React, MySQL
+- Docker, Kubernetes
+- Git & GitHub
 
-## 📊 GitHub Contributions
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushovan09&theme=radical&utcOffset=5)
+#### **🔗 Blockchain & Security**
+- Quorum Blockchain
+- Smart Contracts & Private Transactions
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushovan09&theme=radical)
+---
 
+### 🚀 Projects
+#### **VoiceChain: Secure Automated IVR with Blockchain & LLM Integration**
+- Automated IVR with speaker verification.
+- Speech-to-text + LLM integration + TTS response.
+- Blockchain-based call record storage.
 
-## 🌱 What I'm Learning
-- **Text-to-Speech (TTS) Modules in Python:**
-  - Exploring how to integrate TTS features in various applications.
-  
-- **Blockchain Privacy Scripts:**
-  - Developing scripts for private transactions in the Quorum blockchain.
+#### **Bird Species Classification Using ML**
+- Audio-based bird species recognition.
+- Real-time classification via Flask & React.
+- Dynamic image & Wikipedia integration.
 
-## 📫 How to Reach Me
+#### **Speaker Detection using AI**
+- Speaker classification using TensorFlow.
+- Dataset processing and real-time recognition.
+
+#### **Image Processing Tool for Patches**
+- Automated image resizing into fixed-size patches.
+- Maintains aspect ratio for diverse image datasets.
+
+#### **PDF Chatbot for Conversational PDF Analysis**
+- AI-driven chatbot for PDF interaction.
+- MySQL-based history storage & CSV downloads.
+
+---
+
+### 📊 GitHub Stats
+![Sushovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushovan09&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushovan09&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushovan09&theme=tokyonight)
+
+---
+
+### 🌱 What I'm Learning
+- Advanced machine learning algorithms for real-time audio and image processing.
+- Large Language Models (LLMs) for conversational AI.
+- Blockchain security and privacy scripts.
+
+---
+
+### 📧 Connect with Me
 - **GitHub:** [Sushovan09](https://github.com/Sushovan09)
 - **Email:** [suhovanpan2003@gmail.com](mailto:suhovanpan2003@gmail.com)
-- **LinkedIn:** [sushovan-pan-6753b920b](https://www.linkedin.com/in/sushovan-pan-6753b920b/)
-## ✨ Fun Facts
-- 🎧 I enjoy listening to music while coding.
-- 📖 Always on the lookout for new technologies to read and explore.
+- **LinkedIn:** [sushovan-pan](https://www.linkedin.com/in/sushovan-pan-6753b920b/)
 
+---
+
+### 🎵 Fun Facts
+- 🎶 Love coding while listening to music.
+- 🧩 Enjoy anime and movies that aren't too sad, with favorites like *Your Name* and *A Silent Voice*.
+- 🌍 Passionate about open-source contributions.
+
+---
+
+🌟 **If you like my work, feel free to star my repositories and connect with me!** 🚀
