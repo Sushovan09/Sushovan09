@@ -34,8 +34,19 @@ I'm a software developer and enthusiast with a passion for building innovative s
 
 
 ## 📈 GitHub Stats
-![Sushovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushovan09&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushovan09&layout=compact&theme=radical)
+![Sushovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushovan09&show_icons=true&theme=radical&v=2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushovan09&layout=compact&theme=radical&v=2)
+
+## 🏆 GitHub Profile Summary
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushovan09&theme=radical)
+
+## 📊 GitHub Contributions
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushovan09&theme=radical&utcOffset=5)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushovan09&theme=radical)
+
 
 ## 🌱 What I'm Learning
 - **Text-to-Speech (TTS) Modules in Python:**
