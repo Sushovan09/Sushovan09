@@ -1,4 +1,4 @@
-### Hi, I'm Sushovan Pan! 👋
+4### Hi, I'm Sushovan Pan! 👋
 
 🚀 **Software Developer | AI & ML Enthusiast | Blockchain Explorer | Open Source Contributor**
 
@@ -79,7 +79,6 @@ Currently, I'm working on:
 ---
 
 ### 📧 Connect with Me
-- **GitHub:** [Sushovan09](https://github.com/Sushovan09)
 - **Email:** [suhovanpan2003@gmail.com](mailto:suhovanpan2003@gmail.com)
 - **LinkedIn:** [sushovan-pan](https://www.linkedin.com/in/sushovan-pan-6753b920b/)
 
