@@ -1,4 +1,4 @@
-4### Hi, I'm Sushovan Pan! 👋
+### Hi, I'm Sushovan Pan! 👋
 
 🚀 **Software Developer | AI & ML Enthusiast | Blockchain Explorer | Open Source Contributor**
 
